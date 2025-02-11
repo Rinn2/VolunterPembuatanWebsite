@@ -4,3 +4,5 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 
 * Agus Irvan Maulana 
 linkedin.com/in/agus-irvan-maulana/
+Berikut adalah daftar Volunter yang diterima:
+* Agus Irvan Maulana, [oo.or.id](https://oo.or.id).
